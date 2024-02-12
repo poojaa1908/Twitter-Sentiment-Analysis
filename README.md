@@ -68,5 +68,4 @@ For all the methods that follow, change the values of `TRAIN_PROCESSED_FILE`, `T
 
 * `dataset/positive-words.txt`: List of positive words.
 * `dataset/negative-words.txt`: List of negative words.
-* `dataset/glove-seeds.txt`: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
-* `Plots.ipynb`: IPython notebook used to generate plots present in report.
+
